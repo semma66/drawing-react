@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  text-align: center;
+  margin-top: 20px;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  background-color: #fff; /* To make canvas visible */
+}
+
+input, button {
+  margin: 10px;
+}
+
